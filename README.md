@@ -1,2 +1,9 @@
-# Blood-Donation-PHP-Website
-Its a full stack website where blood donaters doing registration to donate blood on blood camp locations and helpful recievers also doing registration  to get blood according to unit and their matched blood group also...
+# blood-bank
+it's a project on bloodbank 
+1. Frist of all install xampp server
+2. then activate Apache and MySQL
+3. Create a folder the folder name should bloodbank add all files in it 
+4. Then add that folder at the given path  C:\xampp\htdocs\
+5. Open browser and type  http://localhost/phpmyadmin/ in URL
+6. There was a database files bloodbank.sql  import the sql file
+7. After the adding that file open the http://localhost/bloodbank/
